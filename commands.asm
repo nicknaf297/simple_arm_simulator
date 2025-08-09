@@ -1,0 +1,4 @@
+IN R3
+STORE R3, 5
+LOAD R4, 5
+OUT R4
